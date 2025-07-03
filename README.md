@@ -1,7 +1,7 @@
 # Zomato-Restaurant-Dashboard
 
 The Zomato restaurants dataset is a collection of information about various restaurants listed on the Zomato platform. It typically includes details like the restaurant's name, location (country and city), types of cuisines offered, average cost for two people, and customer ratings. This data helps analyze trends in restaurant popularity, dining preferences, and overall performance across different regions.
-Understanding the data structure is crucial because it informs how you clean, transform, and ultimately visualize the information. While the exact columns and their names may vary based on your data source, the following breakdown illustrates a common schema used in many Zomato analysis projects.
+Understanding the data structure is crucial because it informs how you clean, transform, and ultimately visualize the information. While the exact columns and their names may vary based on the data source, the following breakdown illustrates a common schema used in many Zomato analysis projects.
 
 ************************************************************************************************************************************************
 
